@@ -1,5 +1,5 @@
 # offensive_arabic_tweets_classifier
-use machine learning models (svm ,random forest ,naive_bayes) to detect offinsive arabic  tweets from OSACT 2022 compition ,models on original tweets ( no preprocessing for tweets)  
+use machine learning models (svm ,random forest ,naive_bayes) to detect offinsive arabic  tweets from OSACT 2022 competition ,models on original tweets ( no preprocessing for tweets)  
 
 --used liberaries--
   -sklearn (tf-idf ,train_test_split ,classification report ,confusion matrix ,svm ,random forest ,naive_bayes)
